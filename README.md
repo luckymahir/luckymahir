@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdul Qayyum
+- 👋 Hi, I’m Mahir
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on creating games, mobile apps, and web development
